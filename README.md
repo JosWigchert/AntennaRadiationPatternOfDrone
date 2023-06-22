@@ -49,6 +49,19 @@ Now you have successfully installed and set up the project on your local machine
 
 ## Usage
 
+The notebook consists of several parts
+
+- Imports
+  This sections holds all the imports nessecary for the notebook to run succesfully
+- Functions
+- Background Noise
+- Drone 1 Blocks
+- Drone 2 Blocks
+- Statistical Distances
+- The Main Measurements
+- Statistics
+- Drone Distance
+
 Provide instructions on how to use your project. Include code examples, if applicable, to help users understand how to interact with your project. Explain the different functionalities and how to access them.
 
 ## Features
