@@ -50,7 +50,18 @@ Now you have successfully installed and set up the project on your local machine
 ## Data Structure
 
 The data can be found at [Onedrive](https://tuenl-my.sharepoint.com/:u:/g/personal/j_wigchert_student_tue_nl/EfruQ1boVQdLszJN_KY4Bo4BSW-W7t0f5H9ukcL_bPBHWw?e=ApdIYB). After this file is downloaded it can be extracted to the main directory of this repository.
-The dataset includes 
+The dataset consists of 8 drone measurements:
+1. drone1_1m
+2. drone1_3m
+3. drone1_5m
+4. drone1_second_1m
+5. drone2_1m
+6. drone2_second_1m
+7. drone3_1m
+8. drone3_second_1m
+
+Each drone has 2 measurements, these measurements are `drone<x>_1m ` and `drone<x>_second_1m`. In addition drone 1 also has measurements for 3 and 5 meters.
+All these measuremens consiste of 16 files encoded as `{angle}_degrees` where angle is the angle of the drone on the time of the measurement.
 
 ## Usage
 
