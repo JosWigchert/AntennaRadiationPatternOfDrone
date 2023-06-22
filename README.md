@@ -52,6 +52,7 @@ Now you have successfully installed and set up the project on your local machine
 The notebook consists of several parts
 
 - Imports
+  
   This sections holds all the imports nessecary for the notebook to run succesfully
 - Functions
 - Background Noise
