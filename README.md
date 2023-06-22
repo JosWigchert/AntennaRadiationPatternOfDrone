@@ -78,8 +78,6 @@ The notebook consists of several parts
 
   Get all the measurements for 1 drones at 1m, 3m and 5m and compare these measurements
 
-Provide instructions on how to use your project. Include code examples, if applicable, to help users understand how to interact with your project. Explain the different functionalities and how to access them.
-
 
 
 Happy coding!
