@@ -42,6 +42,7 @@ To get started with the project, follow these steps:
    This command will install all the required dependencies listed in the `requirements.txt` file.
 
 5. Run the project.
+   
    Open the notebook called `drone_radiation_pattern.ipynb` and run the cells.
 
 
