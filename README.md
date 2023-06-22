@@ -7,7 +7,6 @@ This repository is about generating Antenna radiation patterns from IQ-samples g
 - [Project Description](#project-description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 
 ## Project Description
 
@@ -53,21 +52,33 @@ The notebook consists of several parts
 
 - Imports
   
-  This sections holds all the imports nessecary for the notebook to run succesfully
+  Aall the imports nessecary for the notebook to run succesfully
 - Functions
+
+  All the functions used throughout the notebook
 - Background Noise
+
+  Load in the background noise measurements to use when loading all the other measurements
 - Drone 1 Blocks
+
+  Drone 1 measurements with the messages extracted to get the main metric to use and to see the variability within one measurement
 - Drone 2 Blocks
+
+  Drone 2 measurements with the messages extracted to get the main metric to use and to see the variability within one measurement
 - Statistical Distances
+
+  Statistical measurements between drone 1 and drone 2 
 - The Main Measurements
+
+  Get all the measurements for 3 drones with 2 measurements per drone.
 - Statistics
+
+  Calculate some statistics with Cosine-Distance and Sørensen–Dice coefficient on all the drone measurements
 - Drone Distance
 
+  Get all the measurements for 1 drones at 1m, 3m and 5m and compare these measurements
+
 Provide instructions on how to use your project. Include code examples, if applicable, to help users understand how to interact with your project. Explain the different functionalities and how to access them.
-
-## Features
-
-List the key features or functionalities of your project. You can use subheadings or bullet points to highlight each feature and provide a brief description. If there are important code snippets or examples related to each feature, you can include them here.
 
 
 
