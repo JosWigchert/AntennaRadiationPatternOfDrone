@@ -18,18 +18,18 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/JosWigchert/AntennaRatiationPatternOfDrone.git
+   git clone https://github.com/JosWigchert/AntennaRadiationPatternOfDrone .git
    ```
 
 2. Navigate to the project directory.
    ```
-   cd AntennaRatiationPatternOfDrone
+   cd AntennaRadiationPatternOfDrone 
    ```
 
 3. Create and activate a Conda environment (optional but recommended).
    ```
-   conda create --name AntennaRatiationPatternOfDrone
-   conda activate AntennaRatiationPatternOfDrone
+   conda create --name AntennaRadiationPatternOfDrone 
+   conda activate AntennaRadiationPatternOfDrone 
    ```
 
 4. Install the project dependencies using pip and the requirements.txt file.
