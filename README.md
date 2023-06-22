@@ -6,6 +6,7 @@ This repository is about generating Antenna radiation patterns from IQ-samples g
 
 - [Project Description](#project-description)
 - [Installation](#installation)
+- [Data Structure](#data-structure)
 - [Usage](#usage)
 
 ## Project Description
@@ -18,7 +19,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/JosWigchert/AntennaRadiationPatternOfDrone .git
+   git clone https://github.com/JosWigchert/AntennaRadiationPatternOfDrone.git
    ```
 
 2. Navigate to the project directory.
@@ -45,6 +46,10 @@ To get started with the project, follow these steps:
 
 
 Now you have successfully installed and set up the project on your local machine. You're ready to start using it.
+
+## Data Structure
+
+The data can be found at `https://tuenl-my.sharepoint.com/:u:/g/personal/j_wigchert_student_tue_nl/EfruQ1boVQdLszJN_KY4Bo4BSW-W7t0f5H9ukcL_bPBHWw?e=ApdIYB`
 
 ## Usage
 
