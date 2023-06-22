@@ -49,7 +49,8 @@ Now you have successfully installed and set up the project on your local machine
 
 ## Data Structure
 
-The data can be found at [Onedrive](https://tuenl-my.sharepoint.com/:u:/g/personal/j_wigchert_student_tue_nl/EfruQ1boVQdLszJN_KY4Bo4BSW-W7t0f5H9ukcL_bPBHWw?e=ApdIYB)
+The data can be found at [Onedrive](https://tuenl-my.sharepoint.com/:u:/g/personal/j_wigchert_student_tue_nl/EfruQ1boVQdLszJN_KY4Bo4BSW-W7t0f5H9ukcL_bPBHWw?e=ApdIYB). After this file is downloaded it can be extracted to the main directory of this repository.
+The dataset includes 
 
 ## Usage
 
