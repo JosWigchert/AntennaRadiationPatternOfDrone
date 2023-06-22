@@ -8,7 +8,6 @@ This repository is about generating Antenna radiation patterns from IQ-samples g
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [License](#license)
 
 ## Project Description
 
