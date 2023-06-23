@@ -4,7 +4,6 @@ This repository is about generating Antenna radiation patterns from IQ-samples g
 
 ## Table of Contents
 
-- [Project Description](#project-description)
 - [Installation](#installation)
 - [Data Structure](#data-structure)
 - [Usage](#usage)
@@ -57,7 +56,7 @@ The dataset consists of 8 drone measurements:
 8. drone3_second_1m
 
 Each drone has 2 measurements, these measurements are `drone<x>_1m ` and `drone<x>_second_1m`. In addition drone 1 also has measurements for 3 and 5 meters.
-All these measuremens consiste of 16 files encoded as `{angle}_degrees` where angle is the angle of the drone on the time of the measurement.
+All these measuremens consist of 16 binary files encoded as `{angle}_degrees` where angle is the angle of the drone on the time of the measurement (each Binary file consists of IQ values, with the first 32 bits corresponding to the I value, and the next 32 bits corresponding to the Q value. Thus, each 64 bits is an IQ value. These are float values.
 
 ## Usage
 
@@ -65,7 +64,7 @@ The notebook consists of several parts
 
 - Imports
   
-  Aall the imports nessecary for the notebook to run succesfully
+  All the imports necessary for the notebook to run succesfully
 - Functions
 
   All the functions used throughout the notebook
