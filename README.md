@@ -9,10 +9,6 @@ This repository is about generating Antenna radiation patterns from IQ-samples g
 - [Data Structure](#data-structure)
 - [Usage](#usage)
 
-## Project Description
-
-Provide a detailed overview of your project, including its purpose, features, and any relevant information. Explain what problem it solves or what it aims to achieve. You can also include project badges, such as build status, code coverage, or version.
-
 ## Installation
 
 To get started with the project, follow these steps:
