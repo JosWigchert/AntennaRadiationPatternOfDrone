@@ -42,9 +42,9 @@ To get started with the project, follow these steps:
 
 Now you have successfully installed and set up the project on your local machine. You're ready to start using it.
 
-## Pothos Setup:
+### Pothos Setup:
 For the block diagram, you can install Pothosware (https://github.com/pothosware/PothosCore/wiki) and open the file wifi_block_diagram.pothos
-## ESPCopter Setup
+### ESPCopter Setup
 For the ESPCopter code, you can download the PlatformIO Visual Studio Code Extension (https://platformio.org/install/ide?install=vscode). The code for the ESPCopter is in the following repo: https://github.com/JosWigchert/ESPCopter-Platformio
 PlatformIO allows for an easier way to deploy on multiple devices.
 
